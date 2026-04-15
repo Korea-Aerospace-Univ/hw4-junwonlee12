@@ -2,7 +2,8 @@
 
 int main()
 {
-    int a,b=5;
+    int a,b;
+    scanf("%d",&b);
    do{
        scanf("%d",&a);
      if(a<b){
