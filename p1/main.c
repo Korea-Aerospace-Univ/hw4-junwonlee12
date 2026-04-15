@@ -19,7 +19,7 @@ int main()
      }
         
           
-   }while(b);
+   }while(a!=5);
 
     return 0;
 }
