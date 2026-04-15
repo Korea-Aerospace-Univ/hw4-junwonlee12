@@ -6,12 +6,12 @@ int main()
    do{
        scanf("%d",&a);
      if(a<b){
-       printf("a<?");
+       printf("a<?\n");
         
      }  
      
      else if(a>b){
-         printf("a>?");
+         printf("a>?\n");
      }
      else{
          printf("%d\n",b);
